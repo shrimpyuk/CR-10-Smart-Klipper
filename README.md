@@ -1,5 +1,9 @@
-# CR-6 Klipper configuration helper
-A repository for Klipper firmware details for the Creality CR-6 printers.
+## DO NOT USE YET, STILL PORTING.
+
+Thanks to @KoenVanduffel for the original configuration for the CR-6 SE in which this was forked from.
+
+# CR-10 Smart Klipper configuration helper
+A repository for Klipper firmware details for the Creality CR-10 Smart printers.
 This repo focusses on using Klipper and the Fluidd front end. In this configuration there is no need for OctoPi - Fluidd is way more responsive than OctoPi.
 
 ## Installation description:
