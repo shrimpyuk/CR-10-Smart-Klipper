@@ -1,4 +1,4 @@
-## DO NOT USE YET, STILL PORTING.
+## Unknown Pins for MainBoard, therefore as of right now this will ONLY work with the BTT SKR CR6 as of right now. Also bare in mind, you'll need to cut a hole on the right side of the SD slot to be able to access the micro usb port.
 
 Thanks to @KoenVanduffel for the original configuration for the CR-6 SE in which this was forked from.
 
